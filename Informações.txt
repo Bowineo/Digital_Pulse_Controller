@@ -1,0 +1,19 @@
+			Controle Remoto
+POWER 	- Reinicia sistema
+0-9 	- Numerais, possivel selecionar até 2 digitos
+ENTER 	- Envia comando de acordo com a entrada selecionada
+CH's	- Alterna entre Primaryr/Secondary o pulso '1'
+VOL's	- Alterna entre Primaryr/Secondary o pulso '2'
+BACK	- Manda LOW para todas as saidas
+STOP	- Normaliza vetor para XX
+PIC	- Realiza teste PRIAMARY
+MUTE	- Realiza teste das 32 saidas
+FULL	- Realiza teste SECONDARY
+LEFT 	- Altera posição do cursor
+RIGHT 	- Altera posição do cursor
+UP 	- Altera posição do cursor
+DOWN 	- Altera posição do cursor
+REC	- Print na serial P1 e P2 e os valores que estão atribuido
+
+* 0, 00, XX , nX = Não é emitido pulso, gerado erro.
+
